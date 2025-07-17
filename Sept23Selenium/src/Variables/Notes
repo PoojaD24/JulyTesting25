@@ -1,0 +1,18 @@
+Variable life cycle
+
+1)decleration
+2)initialization
+3)utilization
+
+Types of variables
+1)Based on the location of variable decleration
+    1)local variables/temporary variables
+    
+    2)Global variable
+      1)Static variable
+      2)Non static variable/instance Variable
+      
+      
+2)Based on the type of value they store
+      1)Primitive type Variable
+      2)2)Reference type Variable
